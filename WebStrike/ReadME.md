@@ -55,7 +55,7 @@ While reviewing the requests, I discovered traffic targeting the following endpo
 
 **Figure 3 – Upload Request**
 
-![Upload Request](screenshots/Fig3-upload-request.png)
+![Upload Request](screenshots/Fig3-ulpoad-request.png)
 
 Since POST requests are commonly used for file uploads, this immediately caught my attention.
 
